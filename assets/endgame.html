@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz - End of Game</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/game.css">
+</head>
+<body>
+    <div class="container">
+        <div id="end" class="flex-center flex-column">
+            <h1 id="finalScore">0</h1>
+            <form class="end-form-container">
+                <h2 id="end-text">Enter your initials and Save your Highscore!</h2>
+                <input type="text" name="name" id="username" placeholder="Enter your initals">
+                <button class="btn" id="saveScoreBtn" type="submit" onClick="saveHighScore(event)" disabled>Save</button>
+            </form>
+            <a href="./highscores.html" id="highscore-btn" class="btn">High Scores</a>
+            <a href="./game.html" id="play" class="btn">Play Again</a>
+            <a href="../index.html" class="btn">Return Home</a>
+        </div>
+    </div>
+    <script src="../assets/js/endgame.js"></script>
+</body>
+</html>
