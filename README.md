@@ -34,7 +34,7 @@ THEN I can save my initials and my score
 
 ## GitHub repository for Bootcamp Challenge 4
 ---
-[Github Repo](https://github.com/RFox01/Code-Quiz)
+[Github Repo](https://github.com/RFox01/Code_Quiz.git)
 
 ## Depoly website for Challenge 4
 ---
