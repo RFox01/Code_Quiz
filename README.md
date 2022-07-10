@@ -38,7 +38,7 @@ THEN I can save my initials and my score
 
 ## Depoly website for Challenge 4
 ---
-[Quiz website](https://rfox01.github.io/Code-Quiz/)
+[Quiz website](https://rfox01.github.io/Code_Quiz/)
 
 ---
 
